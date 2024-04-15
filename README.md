@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vmotavio&label=Profile%20views&color=0e75b6&style=flat" alt="vmotavio" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vmotavio" alt="vmotavio" /></a> </p>
-
 - 💬 Ask me about **Java, TypeScript, JavaScript, Spring Boot, Nest.js**
 
 - 📫 How to reach me **vmotavio@gmail.com**

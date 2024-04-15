@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vmotavio@gmail.com**
 
-- 📄 Know about my experiences [https://vmotavio.github.io/resume/pt](https://vmotavio.github.io/resume/pt)
+- 📄 Know about my experiences [https://vmotavio.github.io/resume/pt](https://vmotavio.github.io/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
